@@ -1,5 +1,5 @@
 let greetingPrompt = Number(prompt(
-  "Hi you have 1000 dollars in your balance.Press 1 if you would like to withdraw or press 2 to deposit."
+  "Hello.You have 1000 dollars in your balance.Press 1 if you would like to withdraw or press 2 to deposit."
 ));
 let balance = 1000;
 choiceCheck(greetingPrompt,balance);
